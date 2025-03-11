@@ -62,5 +62,6 @@ public class Calculator {
                 System.out.println("Goodbye!");
             }
         }
+        myObj.close();
     }
 }
